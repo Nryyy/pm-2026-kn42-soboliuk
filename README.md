@@ -14,8 +14,8 @@
 | Підгрупа | КН-42 |
 | Тема проєкту | Платформа обліку практик і стажувань: студент, база практики, керівник, звіти. |
 | Варіант вхідних умов | V03 |
-| Трекер | Jira, проєкт My Software Team OA (KAN) |
-| Дошка | https://oa-team-a9qnkmdm.atlassian.net/jira/software/projects/KAN/boards |
+| Трекер | Jira, беклог і спринти: https://oa-team-a9qnkmdm.atlassian.net/jira/software/c/projects/PRAC/boards |
+| Дошка | Kanban ЛР4: https://oa-team-a9qnkmdm.atlassian.net/jira/software/projects/KAN/boards |
 | Валюта проєкту | для кошторису ЛР16 |
 | Contingency, % | від прямих витрат, ЛР16 |
 
