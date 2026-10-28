@@ -6,3 +6,4 @@ ST-04,Бухгалтерія,академія,low,high,neutral,keep_satisfied,BA
 ST-05,Студент-практикант,академія,high,low,supporter,keep_informed,BA
 ST-06,Методист кафедри (зараз веде паперові папки),академія,high,low,blocker,keep_informed,BA
 ST-07,Служба ІТ академії (хостинг і персональні дані),академія,low,high,blocker,keep_satisfied,PM
+ST-08,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM
