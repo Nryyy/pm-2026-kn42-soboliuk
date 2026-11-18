@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,320,481,https://dou.ua/lenta/articles/salary-report-managers-summer-2025/,"медіана ІТ-менеджменту $3000 проти $3400 у розробників (0,88 від Dev)"
+BA,0.5,320,401,https://dou.ua/lenta/articles/salary-report-data-summer-2025/,"медіана Business Analyst $2500 (0,74 від Dev)"
+Dev,3.0,1920,545,https://dou.ua/lenta/articles/salary-report-devs-summer-2025/,три розробники по 100% за однією ставкою; медіана розробників $3400 це база шкали
+QA,1.0,640,353,https://dou.ua/lenta/articles/salary-report-qa-summer-2025/,"медіана QA $2200 (0,65 від Dev)"

@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V03 |
 | Трекер | Jira, беклог і спринти: https://oa-team-a9qnkmdm.atlassian.net/jira/software/c/projects/PRAC/boards |
 | Дошка | Kanban ЛР4: https://oa-team-a9qnkmdm.atlassian.net/jira/software/projects/KAN/boards |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | грн |
+| Contingency, % | 7.7 |
 
 ## Як влаштований репозиторій
 

@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,30,11,6477.33,17665.45,172.73,lr09_forecast/velocity.csv,"спринт свідомо сплановано на 11 points: три історії одного сценарію за рішенням ретро ЛР3, а не на ємність варіанта 30; усе взяте закрито"
+2,30,11,6477.33,17665.45,172.73,lr09_forecast/velocity.csv,"та сама межа в 11 points: S-17 чекала файл від факультету 25 днів, тому інших історій із зовнішньою залежністю в спринт не брали"
