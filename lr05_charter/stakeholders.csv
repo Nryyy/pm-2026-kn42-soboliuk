@@ -7,3 +7,8 @@ ST-05,Студент-практикант,академія,high,low,supporter,ke
 ST-06,Методист кафедри (зараз веде паперові папки),академія,high,low,blocker,keep_informed,BA
 ST-07,Служба ІТ академії (хостинг і персональні дані),академія,low,high,blocker,keep_satisfied,PM
 ST-08,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM
+ST-09,Спонсор проєкту (дає бюджет і тримає дату релізу),академія,low,high,supporter,keep_satisfied,PM
+ST-10,PM (я),команда проєкту,high,high,supporter,manage_closely,PM
+ST-11,BA (бізнес-аналітик),команда проєкту,high,low,supporter,keep_informed,PM
+ST-12,Dev (розробник),команда проєкту,high,low,supporter,keep_informed,PM
+ST-13,QA (інженер з якості),команда проєкту,high,low,supporter,keep_informed,PM
